@@ -1,0 +1,14 @@
+{
+    "name": "worlds-spoiler-cal",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Worlds calendar with scores, hiding late-night results until the next evening",
+    "type": "module",
+    "engines": {
+        "node": ">=24"
+    },
+    "scripts": {
+        "build": "node src/build.ts",
+        "test": "node --test \"test/**/*.test.ts\""
+    }
+}
