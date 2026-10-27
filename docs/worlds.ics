@@ -245,56 +245,62 @@ UID:1711000@worlds-spoiler-cal
 DTSTAMP:20261026T205803Z
 DTSTART:20261026T205803Z
 DTEND:20261026T235803Z
-SUMMARY:(Group Stage) Round 3: TL vs AL
-DESCRIPTION:Best of 3
+SUMMARY:(Group Stage) Round 3: TL vs AL 🙈
+DESCRIPTION:Result hidden until Tue 27 Oct\, 19:00.\nBest of 3
 END:VEVENT
 BEGIN:VEVENT
-UID:1711001@worlds-spoiler-cal
+UID:1711003@worlds-spoiler-cal
 DTSTAMP:20261028T200000Z
 DTSTART:20261028T200000Z
 DTEND:20261028T230000Z
-SUMMARY:(Group Stage) Round 4: TBD vs TBD
-DESCRIPTION:Best of 3
+SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
+DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
+ 7 Oct\, 19:00.\nBest of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711002@worlds-spoiler-cal
 DTSTAMP:20261028T230000Z
 DTSTART:20261028T230000Z
 DTEND:20261029T020000Z
-SUMMARY:(Group Stage) Round 4: TBD vs TBD
-DESCRIPTION:Best of 3
-END:VEVENT
-BEGIN:VEVENT
-UID:1711003@worlds-spoiler-cal
-DTSTAMP:20261029T200000Z
-DTSTART:20261029T200000Z
-DTEND:20261029T230000Z
-SUMMARY:(Group Stage) Round 4: TBD vs TBD
-DESCRIPTION:Best of 3
+SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
+DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
+ 7 Oct\, 19:00.\nBest of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711004@worlds-spoiler-cal
+DTSTAMP:20261029T200000Z
+DTSTART:20261029T200000Z
+DTEND:20261029T230000Z
+SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
+DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
+ 7 Oct\, 19:00.\nBest of 3
+END:VEVENT
+BEGIN:VEVENT
+UID:1711001@worlds-spoiler-cal
 DTSTAMP:20261029T230000Z
 DTSTART:20261029T230000Z
 DTEND:20261030T020000Z
-SUMMARY:(Group Stage) Round 4: TBD vs TBD
-DESCRIPTION:Best of 3
+SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
+DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
+ 7 Oct\, 19:00.\nBest of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711005@worlds-spoiler-cal
 DTSTAMP:20261030T200000Z
 DTSTART:20261030T200000Z
 DTEND:20261030T230000Z
-SUMMARY:(Group Stage) Round 4: TBD vs TBD
-DESCRIPTION:Best of 3
+SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
+DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
+ 7 Oct\, 19:00.\nBest of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711006@worlds-spoiler-cal
 DTSTAMP:20261030T230000Z
 DTSTART:20261030T230000Z
 DTEND:20261031T020000Z
-SUMMARY:(Group Stage) Round 4: TBD vs TBD
-DESCRIPTION:Best of 3
+SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
+DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
+ 7 Oct\, 19:00.\nBest of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711008@worlds-spoiler-cal
