@@ -244,63 +244,57 @@ BEGIN:VEVENT
 UID:1711000@worlds-spoiler-cal
 DTSTAMP:20261026T205803Z
 DTSTART:20261026T205803Z
-DTEND:20261026T235803Z
-SUMMARY:(Group Stage) Round 3: TL vs AL 🙈
-DESCRIPTION:Result hidden until Tue 27 Oct\, 19:00.\nBest of 3
+DTEND:20261026T224522Z
+SUMMARY:(Group Stage) Round 3: TL 2–0 AL
+DESCRIPTION:Winner: Team Liquid\nBest of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711003@worlds-spoiler-cal
 DTSTAMP:20261028T200000Z
 DTSTART:20261028T200000Z
 DTEND:20261028T230000Z
-SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
-DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
- 7 Oct\, 19:00.\nBest of 3
+SUMMARY:(Group Stage) Round 4: MKOI vs T1
+DESCRIPTION:Best of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711002@worlds-spoiler-cal
 DTSTAMP:20261028T230000Z
 DTSTART:20261028T230000Z
 DTEND:20261029T020000Z
-SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
-DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
- 7 Oct\, 19:00.\nBest of 3
+SUMMARY:(Group Stage) Round 4: IG vs LY
+DESCRIPTION:Best of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711004@worlds-spoiler-cal
 DTSTAMP:20261029T200000Z
 DTSTART:20261029T200000Z
 DTEND:20261029T230000Z
-SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
-DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
- 7 Oct\, 19:00.\nBest of 3
+SUMMARY:(Group Stage) Round 4: KC vs CFO
+DESCRIPTION:Best of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711001@worlds-spoiler-cal
 DTSTAMP:20261029T230000Z
 DTSTART:20261029T230000Z
 DTEND:20261030T020000Z
-SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
-DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
- 7 Oct\, 19:00.\nBest of 3
+SUMMARY:(Group Stage) Round 4: TES vs BLG
+DESCRIPTION:Best of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711005@worlds-spoiler-cal
 DTSTAMP:20261030T200000Z
 DTSTART:20261030T200000Z
 DTEND:20261030T230000Z
-SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
-DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
- 7 Oct\, 19:00.\nBest of 3
+SUMMARY:(Group Stage) Round 4: TL vs LOS
+DESCRIPTION:Best of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711006@worlds-spoiler-cal
 DTSTAMP:20261030T230000Z
 DTSTART:20261030T230000Z
 DTEND:20261031T020000Z
-SUMMARY:(Group Stage) Round 4: 🙈 vs 🙈
-DESCRIPTION:Matchup hidden – it would spoil a late result. Revealed Tue 2
- 7 Oct\, 19:00.\nBest of 3
+SUMMARY:(Group Stage) Round 4: HLE vs G2
+DESCRIPTION:Best of 3
 END:VEVENT
 BEGIN:VEVENT
 UID:1711008@worlds-spoiler-cal
